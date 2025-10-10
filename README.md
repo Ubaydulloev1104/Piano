@@ -2,7 +2,8 @@
 <H3> Hi </H3> 
 <img width="822" height="528" alt="image" src="https://github.com/user-attachments/assets/6394d1ef-7ad9-4e98-bb32-5215f31ef07d" /> 
 <H2> The project was created in C# .Net 9.0 </H2> 
-<H2> привет  </H2> 
+
+
 
 
 
