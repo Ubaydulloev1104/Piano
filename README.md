@@ -35,14 +35,9 @@
 
 ---
 
-## 🚀 How to Run
-
-1. Установите [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)  
-2. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/<your-username>/Piano.git
 
  
+
 
 
 
