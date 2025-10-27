@@ -39,7 +39,8 @@
 ## 🤝 Contributing
 - **Если у вас есть предложения по улучшению приложения,можно открыть issue или отправить pull request.**
 - **Любые идеи приветствуются 🎵**
-👨‍💻 Author
+  
+## 👨‍💻 Author
 
 A'zamjon Ubaydulloev
 - Telegram: @ubaydulloev1104
@@ -47,6 +48,7 @@ A'zamjon Ubaydulloev
 
 
  
+
 
 
 
