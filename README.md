@@ -1,8 +1,49 @@
-﻿# Piano 🎹 
-<H3> Hi </H3> 
-<img width="822" height="528" alt="image" src="https://github.com/user-attachments/assets/6394d1ef-7ad9-4e98-bb32-5215f31ef07d" /> 
-<H2> The project was created in C# .Net 9.0 </H2> 
+# 🎹 Piano
+
+<H3>Hi!</H3>
+
+<img width="822" height="528" alt="image" src="https://github.com/user-attachments/assets/6394d1ef-7ad9-4e98-bb32-5215f31ef07d" />
+---
+## 🎶 Description
+
+**Piano** — это простое и увлекательное приложение-пианино,  
+созданное на **C# .NET 9.0** с использованием **Windows Forms**.
+
+С помощью этого проекта можно играть мелодии с клавиатуры или мышью,  
+ознакомиться с принципами генерации звуков и работой интерфейса WinForms.
+
+Проект создан для практики программирования, работы с событиями, мультимедиа и GUI в C#.
+
+---
+
+## ✨ Features
+
+- 🎵 Реалистичное звучание клавиш (каждая клавиша воспроизводит свой звук)  
+- 🎹 Поддержка ввода с клавиатуры и кликов мышью  
+- 🎧 Возможность регулировки громкости  
+- 🎨 Удобный графический интерфейс на WinForms  
+- 💡 Лёгкий, быстрый и не требует установки
+
+---
+
+## 🛠️ Technologies
+
+- **C# 12 / .NET 9.0**
+- **Windows Forms**
+- **System.Media.SoundPlayer** для воспроизведения звуков
+- **Visual Studio 2022** (или любая IDE с поддержкой .NET 9)
+
+---
+
+## 🚀 How to Run
+
+1. Установите [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)  
+2. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/<your-username>/Piano.git
+
  
+
 
 
 
